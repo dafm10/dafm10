@@ -2,7 +2,7 @@
 
 > <img width=20px src="https://static.wikia.nocookie.net/discord/images/4/47/Discord_Canary.png/revision/latest?cb=20210918142724" align="center" max-width="100%" alt="Discord"/> • !davefernandez
 
-<a href="[https://www.linkedin.com/in/pfernandzm/](https://www.linkedin.com/in/pfernandzm/)">
+<a href="https://www.linkedin.com/in/pfernandzm/">
   <img width=22px src="https://cdn-icons-png.flaticon.com/512/174/174857.png" align="left" max-width="100%" alt="LinkedIn"/>
 </a>
   
