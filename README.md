@@ -1,49 +1,30 @@
-## Welcome to my Profile! 
+<h1 align="left">I'm David <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
+<h3 align="left">A passionate frontend developer from Perú</h3>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-> <img width=20px src="https://static.wikia.nocookie.net/discord/images/4/47/Discord_Canary.png/revision/latest?cb=20210918142724" align="center" max-width="100%" alt="Discord"/> • !davefernandez
+[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
+[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol098/)
+![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
+![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
+![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
 
-<a href="https://www.linkedin.com/in/pfernandzm/">
-  <img width=22px src="https://cdn-icons-png.flaticon.com/512/174/174857.png" align="left" max-width="100%" alt="LinkedIn"/>
-</a>
-  
-<a href="https://api.whatsapp.com/send?phone=51991593407">
-  <img width=22px src="https://cdn-icons-png.flaticon.com/512/134/134937.png" style="border-radius: 50px;" align="left" max-width="100%" alt="Whatsapp">
-</a>
-<!--
-<a href="https://www.sololearn.com/profile/15661325">
-  <img width=22px src="https://pbs.twimg.com/profile_images/1410707398021550084/MmGTT4dY_400x400.jpg" align="left" max-width="100%" alt="SoloLearn"
-</a>
--->
-</br>
-<hr>
+- 🔭 I’m currently working on **Freelance**
 
-### 💬 About me
-- 👤 38 years old
-- 🌍 Spanish `(Native)` , English
-- 🖤 Music | Pianist
-</br>
+- 🌱 I’m currently learning **Back-End with Python**
 
-## 💼 Technical Skills
+- 👯 I’m looking to collaborate on **Web applications with React + TS**
 
-<!-- ![](https://img.shields.io/badge/Code-React-informational?style=flat-square&logo=react&color=61DAFB) -->
-<!-- ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat-square&logo=TypeScript&color=1572B6) -->
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=JavaScript&color=F7DF1E)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat-square&logo=HTML5&color=E34F26)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat-square&logo=MySql&color=003B57)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=Python&color=0077B7)
+- ⚡ Fun fact **I'm pianist**
 
-</br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/pfernandzm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pfernandzm" height="30" width="40" /></a>
+<a href="https://instagram.com/david.fernandzm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="david.fernandzm" height="30" width="40" /></a>
+</p>
 
-![](https://img.shields.io/badge/Style-SCSS-informational?style=flat-square&logo=Sass&color=DB7093)
-![](https://img.shields.io/badge/Style-CSS3-informational?style=flat-square&logo=CSS3&color=1572B6)
-![](https://img.shields.io/badge/Design-Figma-informational?style=flat-square&logo=Figma&color=purple)
-
-</br>
-
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat-square&logo=NPM&color=CB3837)
-<!-- ![](https://img.shields.io/badge/Tools-Vercel-informational?style=flat-square&logo=Vercel&color=181717) -->
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat-square&logo=Git&color=F05032)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat-square&logo=GitHub&color=181717)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
 ## 📈 GitHub Stats 
 
